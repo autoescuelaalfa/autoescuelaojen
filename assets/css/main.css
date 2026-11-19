@@ -539,10 +539,10 @@ h6 {
   margin-bottom: 8px;
 }
 .footer .associate-logo {
-  max-width: 180px;
-  height: auto;
+  max-height: 26px;
+  width: auto;
   display: inline-block;
-  border-radius: 15px;
+  border-radius: 6px;
 }
 
 .footer .footer-contact p {
@@ -550,7 +550,7 @@ h6 {
 }
 
 .footer .copyright {
-  padding: 30px 0;
+  padding: 16px 0;
 }
 
 .footer .copyright p {
